@@ -1,0 +1,4 @@
+ghc:
+  - 8.2.1
+script:
+  - bash test.sh
